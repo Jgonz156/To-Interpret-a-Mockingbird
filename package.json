@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "c8": "^9.1.0",
+    "mocha": "^10.4.0",
+    "ohm": "^0.10.4"
+  }
+}
